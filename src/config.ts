@@ -75,7 +75,6 @@ export const siteConfig = {
       achievements: [
         "Graduated with 7.8 GPA",
         "Dean's List all semesters",
-        "President of Computer Science Club",
       ],
     },
     {
